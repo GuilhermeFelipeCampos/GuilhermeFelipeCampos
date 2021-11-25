@@ -12,7 +12,7 @@
 - 🌱 Hoje estou no curso de Desenvolvimento de Software ministrado pela Cubos Academy  
   
 
-- ❓ Me pergunte sobre JavaScript, Node.JS e ReactJs
+- ❓ Me pergunte sobre JavaScript, NodeJS e ReactJs
   
 
 - ⚡ Curiosidade Converso com meu código enquanto estou codando  
